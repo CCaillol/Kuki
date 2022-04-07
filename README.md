@@ -9,7 +9,7 @@ In this repository, you will find:
      
 - A heatmap of mean tongue/palate contact for each allophone based on five repetitions of different pairs of French words containing /ki/ and /ku/.  
 
-     ![Kuki_Allophone_Heatmap](https://user-images.githubusercontent.com/103048285/162164021-763f8284-5109-45d0-9df5-a9d0646d561f.png)
+     ![Kuki_Allophone_Heatmap_withLabels](https://user-images.githubusercontent.com/103048285/162165846-28fee167-ba4b-4511-80d2-1659cf2ca703.png)
 - A heatmap of mean tongue/palate contact for each word pair, based of five repetitions. 
 
      ![Kuki_WordPairs_Heatmap](https://user-images.githubusercontent.com/103048285/162164132-9c5bd2d4-a4f1-4dab-8c16-98a2b08893ab.png)
