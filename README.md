@@ -13,5 +13,5 @@ In this repository, you will find:
 - A heatmap of mean tongue/palate contact for each word pair, based of five repetitions. 
 
      ![KukiWords3](https://user-images.githubusercontent.com/103048285/162157517-1b1545aa-26e6-46d3-839e-156528dbfb27.png)
-- The list of stimuli. 
+- The list of stimuli (18 total, 9 word pairs).  
 - The Matlab script used to export the EPG data and create heatmaps. 
