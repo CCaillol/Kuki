@@ -21,3 +21,5 @@ In this repository, you will find:
 LinguaGraph Electropalatography system (EPG) by icSpeech (Rose Medical Ltd). 62 electrodes palate, 200 frames per second. 
 https://icspeech.com/electropalatography.html
 
+MATLAB Version: 9.12.0.1884302 (R2022a)
+
