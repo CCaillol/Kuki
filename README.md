@@ -9,10 +9,10 @@ In this repository, you will find:
      
 - A heatmap of mean tongue/palate contact for each allophone based on five repetitions of different pairs of French words containing /ki/ and /ku/.  
 
-     ![kuki3](https://user-images.githubusercontent.com/103048285/162157217-3eadedf0-fe0f-4ee2-929e-ba3fbb85e6b4.png)
+     ![Kuki_Allophone_Heatmap](https://user-images.githubusercontent.com/103048285/162164021-763f8284-5109-45d0-9df5-a9d0646d561f.png)
 - A heatmap of mean tongue/palate contact for each word pair, based of five repetitions. 
 
-     ![KukiWords3](https://user-images.githubusercontent.com/103048285/162157517-1b1545aa-26e6-46d3-839e-156528dbfb27.png)
+     ![Kuki_WordPairs_Heatmap](https://user-images.githubusercontent.com/103048285/162164132-9c5bd2d4-a4f1-4dab-8c16-98a2b08893ab.png)
 - The list of stimuli (18 total, 9 word pairs).  
 - The Matlab script used to export the EPG data and create heatmaps. 
 
