@@ -15,3 +15,9 @@ In this repository, you will find:
      ![KukiWords3](https://user-images.githubusercontent.com/103048285/162157517-1b1545aa-26e6-46d3-839e-156528dbfb27.png)
 - The list of stimuli (18 total, 9 word pairs).  
 - The Matlab script used to export the EPG data and create heatmaps. 
+
+# Materials
+
+LinguaGraph Electropalatography system (EPG) by icSpeech (Rose Medical Ltd). 62 electrodes palate, 200 frames per second. 
+https://icspeech.com/electropalatography.html
+
