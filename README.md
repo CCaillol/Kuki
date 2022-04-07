@@ -1,5 +1,5 @@
 # Kuki
-This is a series of resources to teach French-learners (and others!) the different allophones of /k/ in French. The phoneme /k/ tends to be realized as the palatal allophone \[c\] in front of a front vowel such as /i/. In front of a back vowel like /u/, /k/ will be realized as a velar \[k]. 
+This is a collection of resources to teach French-learners (and others!) the different allophones of /k/ in French. The phoneme /k/ tends to be realized as the palatal allophone \[c\] in front of a front vowel such as /i/. In front of a back vowel like /u/, /k/ will be realized as a velar \[k]. 
 
 # Content 
 In this repository, you will find: 
