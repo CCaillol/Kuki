@@ -3,7 +3,7 @@ This is a collection of resources to teach French-learners (and others!) the dif
 
 # Content 
 In this repository, you will find: 
-- A collection of videos (normal and .5 speed) of the pronunciation and real-time EPG tongue/palate contact of pairs of French words containing /ki/ and /ku/.
+- A collection of videos at normal and .5 speed (with resynthetized speech using Praat (Boersma & Weenink, 2022)) of the pronunciation and real-time EPG tongue/palate contact of pairs of French words containing /ki/ and /ku/.
 
      <img width="600" alt="example" src="https://user-images.githubusercontent.com/103048285/162155966-5af5d5de-58c0-4805-a290-d5737d6f9f90.png">
      
@@ -23,3 +23,4 @@ https://icspeech.com/electropalatography.html
 
 MATLAB Version: 9.12.0.1884302 (R2022a)
 
+Boersma, Paul & Weenink, David (2022). Praat: doing phonetics by computer [Computer program]. Version 6.2.11, retrieved 8 April 2022 from http://www.praat.org/
