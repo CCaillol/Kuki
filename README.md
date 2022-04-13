@@ -15,7 +15,8 @@ In this repository, you will find:
 
      ![Kuki_WordPairs_Heatmap](https://user-images.githubusercontent.com/103048285/162164132-9c5bd2d4-a4f1-4dab-8c16-98a2b08893ab.png)
 - The list of stimuli (18 total, 9 word pairs).  
-- The Matlab script used to export the EPG data and create heatmaps. 
+- The Matlab script used to export the EPG data and create heatmaps. See EPG_LiveCode.mlx and EPG_LiveCode.pdf. 
+- The files needed to run the Matlabd script and obtain the outputs found in this repository. See folder ScriptFiles. 
 
 # Materials
 
