@@ -9,8 +9,10 @@ In this repository, you will find:
 - A video at normal and .5 speed (with resynthetized speech using Praat (Boersma & Weenink, 2022)) of the pronunciation and real time EPG tongue/palate contact of /ku/ and /ki/. See kuki_example.mp4 and kuki_example_slow.mp4.
 - A collection of videos at normal and .5 speed (with resynthetized speech) of the pronunciation and real-time EPG tongue/palate contact of pairs of French words containing /ki/ and /ku/. See Videos folder. 
 
-     <img width="600" alt="example" src="https://user-images.githubusercontent.com/103048285/162155966-5af5d5de-58c0-4805-a290-d5737d6f9f90.png">
-     
+<p align="center">
+    <img width="545" alt="Capture d'écran 2023-05-25 171353" src="https://github.com/CCaillol/Kuki/assets/103048285/eb0558d2-530b-44b9-bc42-3c500b568c57">                       <img width="600" alt="example" src="https://user-images.githubusercontent.com/103048285/162155966-5af5d5de-58c0-4805-a290-d5737d6f9f90.png">  
+</p>
+      
 - A heatmap of mean tongue/palate contact for each allophone based on five repetitions of different pairs of French words containing /ki/ and /ku/.  
 
      ![Kuki_Allophone_Heatmap_withLabels](https://user-images.githubusercontent.com/103048285/162165846-28fee167-ba4b-4511-80d2-1659cf2ca703.png)
