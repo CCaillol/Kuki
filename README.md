@@ -3,6 +3,7 @@ This is a collection of resources to teach learners of French (and others!) the 
 
 # Content 
 In this repository, you will find: 
+***NEW*** - Two MRI (Magnetic Resonance Imaging) videos at normal and .5 speed of the midsagittal view of the same speaker, reading the word list. 
 - A video at normal and .5 speed (with resynthetized speech using Praat (Boersma & Weenink, 2022)) of the pronunciation and real time EPG tongue/palate contact of /ku/ and /ki/. See kuki_example.mp4 and kuki_example_slow.mp4.
 - A collection of videos at normal and .5 speed (with resynthetized speech) of the pronunciation and real-time EPG tongue/palate contact of pairs of French words containing /ki/ and /ku/. See Videos folder. 
 
@@ -22,6 +23,8 @@ In this repository, you will find:
 
 LinguaGraph Electropalatography system (EPG) by icSpeech (Rose Medical Ltd). 62 electrodes palate, 200 frames per second. 
 https://icspeech.com/electropalatography.html
+
+3T Canon MRI scanner (Canon Galan 3.0T XGO)
 
 MATLAB Version: 9.12.0.1884302 (R2022a)
 
